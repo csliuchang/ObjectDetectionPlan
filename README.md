@@ -19,7 +19,7 @@ In this repo, we will collect some useful rotate detection methods, and code is 
 1. <a href="#Overall"> An overview of the Paper List </a>
 2. <a href="#Anchor base Rotate Detection"> Anchor base Rotate Detection </a>
 3. <a href="#Anchor Free Rotate Detection">  Anchor Free Rotate Detection </a>
-4. <a href="#Rotate Loss">  Anchor Free Rotate Detection methods </a>
+4. <a href="#Rotate Loss">  Rotate Loss </a>
 
 
 ------
