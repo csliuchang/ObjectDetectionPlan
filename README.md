@@ -6,8 +6,7 @@
 In this repo, we will collect some useful rotate detection methods, and code is mostly pytorch code, maybe not original author's.      
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **Anchor Base ROD methods**: Add one AAAI21 paper, one CVPR21 paper                
- :heavy_exclamation_mark:  **Anchor Free ROD methods**: Add two CVPR21 paper and two WACV papers
+ :heavy_exclamation_mark:  **Anchor Base ROD methods**: Add one ICCV21 paper
 --------------------------------------------------------------------------------------
 
 
@@ -38,6 +37,7 @@ In this repo, we will collect some useful rotate detection methods, and code is 
 04 | **CVPR** | ReDet: A Rotation-equivariant Detector for Aerial Object Detection | [Paper](https://arxiv.org/abs/2103.07733)/[Code](https://github.com/csuhan/ReDet)
 05 | **CVPR** | Beyond Bounding-Box: Convex-Hull Feature Adaptation for Oriented and Densely Packed Object Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Guo_Beyond_Bounding-Box_Convex-Hull_Feature_Adaptation_for_Oriented_and_Densely_Packed_CVPR_2021_paper.html)/[Code](https://github.com/SDL-GuoZonghao/BeyondBoundingBox)
 06 | **CVPR** | Learning High-Precision Bounding Box for Rotated Object Detection via Kullback-Leibler Divergence | [Paper](https://arxiv.org/abs/2106.01883)/[Code](https://github.com/yangxue0827/RotationDetection)
+06 | **ICCV** | Oriented R-CNN for Object Detection | [Paper](https://arxiv.org/abs/2108.05699)/[Code](https://github.com/jbwang1997/OBBDetection)
 ## 2019      
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
