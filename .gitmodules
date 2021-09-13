@@ -1,0 +1,4 @@
+[submodule "RotateDetection-summary"]
+	path = RotateDetection-summary
+	url = https://github.com/csliuchang/RotateDetection-summary
+	branch = master
